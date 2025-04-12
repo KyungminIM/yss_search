@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     // 구글 계정 생성 규칙
-    const googleId = `${studentId}@leesoonsin.hs.kr`;
+    const googleId = `${studentId}@yisunsin.cnehs.kr`;
     const pwPrefix = studentId.substring(0, 2); // 앞 두 자리
     const googlePw = `Lee!${pwPrefix}${studentName}`;
 
